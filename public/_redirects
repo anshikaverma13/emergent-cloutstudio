@@ -1,0 +1,3 @@
+# SPA fallback – must come after static file rules
+# Static files (sitemap.xml, robots.txt) are served from build output first
+/*    /index.html   200
